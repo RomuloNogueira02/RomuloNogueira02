@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently i'm currently doing a master's degree in **Computer Engineering with a specialization in AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RomuloNogueira02?tab=repositories](https://github.com/RomuloNogueira02?tab=repositories)
+- 👨‍💻 All of my projects are available at <br> [https://github.com/RomuloNogueira02?tab=repositories](https://github.com/RomuloNogueira02?tab=repositories)
 
 - 📫 How to reach me **romulo3218@gmail.com**
 
