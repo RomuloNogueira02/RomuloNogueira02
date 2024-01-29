@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulonogueira02&label=Profile%20views&color=0e75b6&style=flat" alt="romulonogueira02" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Mikroorm, NodeJs and VueJs**
+- 🌱 I’m currently i'm currently doing a master's degree in **Computer Engineering with a specialization in AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RomuloNogueira02?tab=repositories](https://github.com/RomuloNogueira02?tab=repositories)
 
